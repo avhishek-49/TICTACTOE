@@ -1,4 +1,6 @@
 // Function called whenever user tab on any box
+
+// this is test and fixes for azure pipeline and others
 function myfunc() {
 
 	// Setting DOM to all boxes or input field
